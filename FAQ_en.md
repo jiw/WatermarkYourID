@@ -30,3 +30,6 @@ No. All image processing is done locally on your device. Your images are never u
 
 ## 9. What should I do if I encounter a problem?
 You can find our contact information in the **"About"** or **"Settings"** section of the app. Feel free to send us feedback or suggestions.
+
+You can also send your request to following email, we'll get back to you soon:
+lavish20210717#gmail.com
